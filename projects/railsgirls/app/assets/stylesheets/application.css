@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+ 
+.label {
+	color: rgb(226, 43, 137);
+	font-size: 18px;
+	font-weight: 200;
+    font-style: italic;
+    
+}
+#specific {
+	color: purple;
+	font-size: 18px;
+	font-weight: 200;
+    
+}
+img {
+    width: 200px;
+    margin: auto;
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
